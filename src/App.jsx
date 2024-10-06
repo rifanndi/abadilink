@@ -25,7 +25,7 @@ function App() {
         style={{ width: "150px", marginBottom: "20px" }}
       />
 
-      <h1 style={{ color: "#D32F2F" }}>Welcome to Abadi Charcoal Resources</h1>
+      <h1 style={{ color: "#D32F2F" }}>Welcome to Abadi Charcoal Catalog</h1>
       <p style={{ color: "#fff" }}>Access our catalogs below:</p>
 
       {/* Terapkan skema warna merah dan hitam untuk tombol */}
